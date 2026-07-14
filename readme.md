@@ -12,7 +12,7 @@ I enjoy designing products from first principles, contributing to open source, a
 
 ##### Products
 
-1. [Munshi](https://munshi.atyb.dev) - AI-powered expense tracking over WhatsApp with voice notes, receipts, ledgers, and budgeting.  
+1. [munshi](https://munshi.atyb.dev) - AI-powered expense tracking over WhatsApp with voice notes, receipts, ledgers, and budgeting.  
 2. [mor.pics](https://mor.pics) - Image transformation service powered by clean, URL-based APIs.  
 3. [dock](https://dock.atyb.me) - A bookmark and read-it-later platform designed for both humans and AI agents.  
 4. [favcn](favcn.atyb.dev) - Generate production-ready favicons from emojis, text, gradients, and shapes in seconds.  
