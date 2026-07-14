@@ -25,9 +25,7 @@ I enjoy designing products from first principles, contributing to open source, a
 
 ##### Socials
 
-[website](atyb.dev)  
-[x.com](x.com/atybdot)  
-[peerlist](https://peerlist.io/atybdot)  
+[site](atyb.dev) - [x.com](x.com/atybdot) - [peerlist](https://peerlist.io/atybdot)  
 
 
 
