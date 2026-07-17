@@ -1,5 +1,4 @@
-Building software with an obsession for quality, simplicity, and thoughtful engineering.
-I enjoy designing products from first principles, contributing to open source, and shipping software that solves real problems.
+Building things.
 
 ---
 
